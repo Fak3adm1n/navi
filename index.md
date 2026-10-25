@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-dg-home: true
+dg-home: false
 ---
 
 [[Death and drive]]
