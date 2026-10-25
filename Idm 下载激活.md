@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
  [下载](www.internetdownloadmanager.com/download.html)
  
 `irm "https://bit.ly/idm_Activate" | iex`

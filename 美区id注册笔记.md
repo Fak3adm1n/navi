@@ -5,6 +5,7 @@ tags:
   - iPhone
   - Apple-ID
   - 教程
+dg-publish: true
 ---
 
 # 注册美区 Apple ID 并成功下载 App

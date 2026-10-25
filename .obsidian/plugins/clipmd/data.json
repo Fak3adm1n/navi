@@ -1,0 +1,19 @@
+{
+  "subscriptionAccounts": {},
+  "titleMode": "website",
+  "customTitleTemplate": "",
+  "settingsSchemaVersion": 4,
+  "syncInterval": 60,
+  "syncOnStart": true,
+  "preventReimportAfterLocalRemoval": false,
+  "targetFolder": "",
+  "filenameTemplate": "{{created_date}}-{{note_title}}",
+  "filenameDateFormat": "yyyy-MM-dd",
+  "template": "{{content}}",
+  "frontmatterTemplate": "---\ntitle: \"{{note_title}}\"\ndate: \"{{source_date}}\"\nsource: \"{{source}}\"\ntags: {{tags}}\nurl: \"{{url}}\"\ntask_id: {{task_id}}\n---",
+  "dailyMergeFrontmatterTemplate": "---\ntitle: \"{{title}}\"\ndate: \"{{date}}\"\nsource: \"{{source}}\"\ntags: {{tags}}\ntask_count: {{task_count}}\ntask_ids: {{task_ids}}\ntasks:\n{{tasks}}\n---",
+  "syncContentMode": "full",
+  "imageMode": "local",
+  "imageFolder": "",
+  "mergeMode": "none"
+}
