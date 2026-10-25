@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Page.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Page"
+              "title": "index"
             }
           },
           {
@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "当我们在争论时，谁在和我们争论？.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "当我们在争论时，谁在和我们争论？"
+              "title": "index"
             }
           }
         ],
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "当我们在争论时，谁在和我们争论？.md",
+            "file": "index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -231,7 +231,8 @@
   },
   "active": "004c25f4982f2fca",
   "lastOpenFiles": [
-    "Home Page.md",
+    "当我们在争论时，谁在和我们争论？.md",
+    "index.md",
     "贫穷思维陷阱与幻想.md",
     "美区id注册笔记.md",
     "金阁.md",
@@ -239,7 +240,6 @@
     "讨论与争辩，玩家与玩具.md",
     "清化.md",
     "拉康（Jacques Lacan）.md",
-    "当我们在争论时，谁在和我们争论？.md",
     "小米 15 恢复出厂设置后 TWRP 无法挂载 Data 的排查与线刷记录.md",
     "对口误等发笑，本质是对语言秩序的反抗.md",
     "关于死.md",
