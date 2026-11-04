@@ -2,7 +2,7 @@
 dg-publish: false
 dg-home: false
 ---
-
+[Hugging Face 事件](Hugging%20Face%20事件.md)
 [Death and drive](Death%20and%20drive.md)
 [贫穷思维陷阱与幻想](贫穷思维陷阱与幻想.md)
 [记录中兴畅行60救砖](记录中兴畅行60救砖.md)
